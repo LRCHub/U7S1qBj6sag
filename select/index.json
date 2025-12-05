@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "ひまわり",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-05T04:26:24.239259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ひまわり_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ひまわり_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "山崎ハコ",
+      "has_synced": false,
+      "path": "select/03_ひまわり_山崎ハコ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひまわり [Himawari]",
+      "artist": "山崎ハコ (Hako Yamasaki)",
+      "has_synced": false,
+      "path": "select/04_ひまわり_[Himawari]_山崎ハコ_(Hako_Yamasaki).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "キロロ",
+      "has_synced": false,
+      "path": "select/05_ひまわり_キロロ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/06_ひまわり_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loss of Love [ひまわり]",
+      "artist": "Yuji Ohno Trio & Friends",
+      "has_synced": false,
+      "path": "select/07_Loss_of_Love_[ひまわり]_Yuji_Ohno_Trio_&_Friends.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "水樹奈々",
+      "has_synced": false,
+      "path": "select/08_ひまわり_水樹奈々.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "斉藤朱夏",
+      "has_synced": true,
+      "path": "select/09_ひまわり_斉藤朱夏.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "Kiroro",
+      "has_synced": false,
+      "path": "select/10_ひまわり_Kiroro.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ひまわり (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/11_ひまわり_(2012_Remaster)_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ひまわり (向日葵)",
+      "artist": "遊助",
+      "has_synced": true,
+      "path": "select/12_ひまわり_(向日葵)_遊助.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "AiM",
+      "has_synced": false,
+      "path": "select/13_ひまわり_AiM.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/14_ひまわり_飯島真理.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ひまわり (Himawari)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/15_ひまわり_(Himawari)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "Dios/signalP",
+      "has_synced": false,
+      "path": "select/16_ひまわり_Dios_signalP.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ひまわり",
+      "artist": "Yusuke",
+      "has_synced": true,
+      "path": "select/17_ひまわり_Yusuke.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ひまわり [Remastered]",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/18_ひまわり_[Remastered]_Kiroro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ひまわり_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_ひまわり_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_ひまわり_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_ひまわり_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_ひまわり_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ひまわり",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_ひまわり_米津玄師.txt"
+    }
+  ]
+}
